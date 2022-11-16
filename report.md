@@ -48,7 +48,7 @@ Replace in path:
     ⌘ + Shift + R
 Go to file:
 
-    Ctrl + Shift + N
+    ⌘ + Shift + O
 Find usages:
 
     fn + ⌥ + F7 
